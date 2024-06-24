@@ -1,0 +1,3360 @@
+{
+    "editorVersion": 5.0,
+    "instances": [
+        {
+            "layer": 0.0,
+            "deleted": 0.0,
+            "variables": {
+                "x": 464.0,
+                "y": 384.0,
+                "image_xscale": 1.0,
+                "image_yscale": 1.0
+            },
+            "object": 804.0
+        },
+        {
+            "layer": 0.0,
+            "deleted": 0.0,
+            "variables": {
+                "x": 480.0,
+                "y": 288.0,
+                "image_xscale": 1.0,
+                "image_yscale": 1.0,
+                "flipX": 0.0,
+                "flipY": 0.0
+            },
+            "object": 770.0
+        },
+        {
+            "layer": 0.0,
+            "deleted": 0.0,
+            "variables": {
+                "x": 0.0,
+                "y": 416.0,
+                "image_xscale": 30.0,
+                "image_yscale": 4.0,
+                "flipX": 0.0,
+                "flipY": 0.0
+            },
+            "object": 517.0
+        },
+        {
+            "layer": 0.0,
+            "deleted": 0.0,
+            "variables": {
+                "x": 64.0,
+                "y": 303.0,
+                "image_xscale": 1.0,
+                "image_yscale": 1.0,
+                "flipX": 0.0,
+                "flipY": 0.0
+            },
+            "object": 769.0
+        },
+        {
+            "layer": 0.0,
+            "deleted": 0.0,
+            "variables": {
+                "x": 160.0,
+                "y": 96.0,
+                "image_xscale": 2.0,
+                "image_yscale": 8.0,
+                "flipX": 0.0,
+                "flipY": 0.0
+            },
+            "object": 517.0
+        },
+        {
+            "layer": 0.0,
+            "deleted": 0.0,
+            "variables": {
+                "x": 608.0,
+                "y": 96.0,
+                "image_xscale": 6.0,
+                "image_yscale": 2.0,
+                "flipX": 0.0,
+                "flipY": 0.0
+            },
+            "object": 517.0
+        },
+        {
+            "layer": 0.0,
+            "deleted": 0.0,
+            "variables": {
+                "x": 224.0,
+                "y": 96.0,
+                "image_xscale": 4.0,
+                "image_yscale": 2.0,
+                "flipX": 0.0,
+                "flipY": 0.0
+            },
+            "object": 517.0
+        },
+        {
+            "layer": 0.0,
+            "deleted": 0.0,
+            "variables": {
+                "x": 256.0,
+                "y": 192.0,
+                "image_xscale": 3.0,
+                "image_yscale": 2.0,
+                "flipX": 0.0,
+                "flipY": 0.0
+            },
+            "object": 517.0
+        },
+        {
+            "layer": 0.0,
+            "deleted": 0.0,
+            "variables": {
+                "x": 224.0,
+                "y": 288.0,
+                "image_xscale": 4.0,
+                "image_yscale": 2.0,
+                "flipX": 0.0,
+                "flipY": 0.0
+            },
+            "object": 517.0
+        },
+        {
+            "layer": 0.0,
+            "deleted": 0.0,
+            "variables": {
+                "x": 704.0,
+                "y": 192.0,
+                "image_xscale": 3.0,
+                "image_yscale": 2.0,
+                "flipX": 0.0,
+                "flipY": 0.0
+            },
+            "object": 517.0
+        },
+        {
+            "layer": 0.0,
+            "deleted": 0.0,
+            "variables": {
+                "x": 736.0,
+                "y": 256.0,
+                "image_xscale": 2.0,
+                "image_yscale": 3.0,
+                "flipX": 0.0,
+                "flipY": 0.0
+            },
+            "object": 517.0
+        },
+        {
+            "layer": 0.0,
+            "deleted": 0.0,
+            "variables": {
+                "x": 288.0,
+                "y": 256.0,
+                "image_xscale": 2.0,
+                "image_yscale": 1.0,
+                "flipX": 0.0,
+                "flipY": 0.0
+            },
+            "object": 517.0
+        },
+        {
+            "layer": 0.0,
+            "deleted": 0.0,
+            "variables": {
+                "x": 608.0,
+                "y": 160.0,
+                "image_xscale": 2.0,
+                "image_yscale": 6.0,
+                "flipX": 0.0,
+                "flipY": 0.0
+            },
+            "object": 517.0
+        },
+        {
+            "layer": 0.0,
+            "deleted": 0.0,
+            "variables": {
+                "x": 672.0,
+                "y": 288.0,
+                "image_xscale": 2.0,
+                "image_yscale": 2.0,
+                "flipX": 0.0,
+                "flipY": 0.0
+            },
+            "object": 517.0
+        },
+        {
+            "layer": 0.0,
+            "deleted": 0.0,
+            "variables": {
+                "x": -32.0,
+                "y": -32.0,
+                "image_xscale": 1.0,
+                "image_yscale": 16.0,
+                "flipX": 0.0,
+                "flipY": 0.0
+            },
+            "object": 517.0
+        },
+        {
+            "layer": 0.0,
+            "deleted": 0.0,
+            "variables": {
+                "x": 0.0,
+                "y": -32.0,
+                "image_xscale": 30.0,
+                "image_yscale": 1.0,
+                "flipX": 0.0,
+                "flipY": 0.0
+            },
+            "object": 517.0
+        },
+        {
+            "layer": 0.0,
+            "deleted": 0.0,
+            "variables": {
+                "x": 960.0,
+                "y": -32.0,
+                "image_xscale": 1.0,
+                "image_yscale": 15.0,
+                "flipX": 0.0,
+                "flipY": 0.0
+            },
+            "object": 517.0
+        },
+        {
+            "layer": 0.0,
+            "deleted": 0.0,
+            "variables": {
+                "x": 672.0,
+                "y": 224.0,
+                "image_xscale": 1.0,
+                "image_yscale": 1.0,
+                "flipX": 0.0,
+                "flipY": 0.0
+            },
+            "object": 722.0
+        },
+        {
+            "layer": 0.0,
+            "deleted": 0.0,
+            "variables": {
+                "x": 224.0,
+                "y": 224.0,
+                "image_xscale": 1.0,
+                "image_yscale": 1.0,
+                "flipX": 0.0,
+                "flipY": 0.0
+            },
+            "object": 722.0
+        },
+        {
+            "layer": 0.0,
+            "deleted": 0.0,
+            "variables": {
+                "x": 0.0,
+                "y": 0.0,
+                "image_xscale": 4.0,
+                "image_yscale": 6.0,
+                "flipX": 0.0,
+                "flipY": 0.0
+            },
+            "object": 517.0
+        },
+        {
+            "layer": 0.0,
+            "deleted": 0.0,
+            "variables": {
+                "x": 832.0,
+                "y": 0.0,
+                "image_xscale": 4.0,
+                "image_yscale": 10.0,
+                "flipX": 0.0,
+                "flipY": 0.0
+            },
+            "object": 517.0
+        },
+        {
+            "layer": 0.0,
+            "deleted": 0.0,
+            "variables": {
+                "x": 864.0,
+                "y": 320.0,
+                "targetRoom": "roomextra",
+                "image_xscale": 1.0,
+                "visible": "false",
+                "image_yscale": 1.0,
+                "flipX": 0.0,
+                "flipY": 0.0,
+                "targetDoor": "G"
+            },
+            "object": 795.0
+        },
+        {
+            "layer": 0.0,
+            "deleted": 0.0,
+            "variables": {
+                "x": 800.0,
+                "flipX": 0.0,
+                "y": 369.5,
+                "flipY": 0.0
+            },
+            "object": 457.0
+        },
+        {
+            "layer": 0.0,
+            "deleted": 0.0,
+            "variables": {
+                "x": 896.0,
+                "flipX": 0.0,
+                "y": 384.0,
+                "flipY": 0.0
+            },
+            "object": 239.0
+        },
+        {
+            "layer": 0.0,
+            "deleted": 0.0,
+            "variables": {
+                "x": 480.0,
+                "y": 64.0,
+                "targetRoom": "roomfinal",
+                "image_xscale": 1.0,
+                "image_yscale": 1.0,
+                "flipX": 0.0,
+                "flipY": 1.0
+            },
+            "object": 800.0
+        },
+        {
+            "layer": 0.0,
+            "deleted": 0.0,
+            "variables": {
+                "x": 463.0,
+                "y": 63.0,
+                "image_xscale": 1.0,
+                "image_yscale": 1.0,
+                "flipX": 0.0,
+                "flipY": 1.0
+            },
+            "object": 805.0
+        },
+        {
+            "layer": 0.0,
+            "deleted": 0.0,
+            "variables": {
+                "x": 832.0,
+                "flipX": 0.0,
+                "y": 320.0,
+                "flipY": 0.0
+            },
+            "object": 739.0
+        },
+        {
+            "layer": 0.0,
+            "deleted": 0.0,
+            "variables": {
+                "x": 832.0,
+                "flipX": 0.0,
+                "y": 352.0,
+                "flipY": 0.0
+            },
+            "object": 739.0
+        },
+        {
+            "layer": 0.0,
+            "deleted": 0.0,
+            "variables": {
+                "x": 832.0,
+                "flipX": 0.0,
+                "y": 384.0,
+                "flipY": 0.0
+            },
+            "object": 739.0
+        },
+        {
+            "layer": 0.0,
+            "deleted": 0.0,
+            "variables": {
+                "x": 871.0,
+                "y": 319.0,
+                "image_xscale": 1.0,
+                "image_yscale": 1.0,
+                "flipX": 0.0,
+                "flipY": 0.0,
+                "sprite_index": "Gunpowder Desert\/rizzle"
+            },
+            "object": 1132.0
+        }
+    ],
+    "tile_data": {
+        "5": {
+            "64_128": {
+                "coord": [
+                    7.0,
+                    3.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "96_32": {
+                "coord": [
+                    8.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "192_320": {
+                "coord": [
+                    6.0,
+                    4.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "928_192": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "320_192": {
+                "coord": [
+                    8.0,
+                    0.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "544_544": {
+                "coord": [
+                    0.0,
+                    0.0
+                ],
+                "autotile_index": 1.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "32_128": {
+                "coord": [
+                    6.0,
+                    3.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "256_320": {
+                "coord": [
+                    5.0,
+                    4.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "0_-64": {
+                "autotile": 1.0,
+                "autotile_index": 0.0,
+                "tileset": "tile_graveyard2",
+                "coord": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "704_192": {
+                "coord": [
+                    4.0,
+                    0.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "704_480": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "160_160": {
+                "coord": [
+                    4.0,
+                    1.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "640_192": {
+                "coord": [
+                    8.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "832_512": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "224_416": {
+                "coord": [
+                    7.0,
+                    0.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "128_416": {
+                "coord": [
+                    6.0,
+                    0.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "736_416": {
+                "coord": [
+                    7.0,
+                    0.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "672_512": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "448_416": {
+                "coord": [
+                    10.0,
+                    0.0
+                ],
+                "autotile_index": 1.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "896_448": {
+                "coord": [
+                    6.0,
+                    1.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "576_448": {
+                "coord": [
+                    13.0,
+                    1.0
+                ],
+                "autotile_index": 1.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "96_96": {
+                "coord": [
+                    8.0,
+                    3.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "192_480": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "768_512": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "928_0": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "32_96": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "0_416": {
+                "coord": [
+                    7.0,
+                    0.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "320_320": {
+                "coord": [
+                    8.0,
+                    4.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "896_256": {
+                "coord": [
+                    6.0,
+                    3.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "864_480": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "704_224": {
+                "coord": [
+                    4.0,
+                    4.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "448_480": {
+                "coord": [
+                    11.0,
+                    2.0
+                ],
+                "autotile_index": 1.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "-32_64": {
+                "autotile": 1.0,
+                "autotile_index": 0.0,
+                "tileset": "tile_graveyard2",
+                "coord": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "32_-32": {
+                "autotile": 1.0,
+                "autotile_index": 0.0,
+                "tileset": "tile_graveyard2",
+                "coord": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "288_416": {
+                "coord": [
+                    7.0,
+                    0.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "864_192": {
+                "coord": [
+                    5.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "384_448": {
+                "coord": [
+                    10.0,
+                    1.0
+                ],
+                "autotile_index": 1.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "640_320": {
+                "coord": [
+                    6.0,
+                    4.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "224_320": {
+                "coord": [
+                    7.0,
+                    4.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "0_96": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "256_480": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "0_-32": {
+                "autotile": 1.0,
+                "autotile_index": 0.0,
+                "tileset": "tile_graveyard2",
+                "coord": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "256_512": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "64_64": {
+                "coord": [
+                    7.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "608_480": {
+                "coord": [
+                    4.0,
+                    3.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "640_512": {
+                "coord": [
+                    5.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "160_96": {
+                "coord": [
+                    4.0,
+                    0.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "160_416": {
+                "coord": [
+                    5.0,
+                    0.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "160_192": {
+                "coord": [
+                    4.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "-32_-32": {
+                "autotile": 1.0,
+                "autotile_index": 0.0,
+                "tileset": "tile_graveyard2",
+                "coord": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "576_416": {
+                "coord": [
+                    13.0,
+                    0.0
+                ],
+                "autotile_index": 1.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "256_128": {
+                "coord": [
+                    5.0,
+                    4.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "704_416": {
+                "coord": [
+                    6.0,
+                    0.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "832_288": {
+                "coord": [
+                    4.0,
+                    4.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "864_32": {
+                "coord": [
+                    5.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "864_288": {
+                "coord": [
+                    6.0,
+                    4.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "768_224": {
+                "coord": [
+                    8.0,
+                    1.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "-32_96": {
+                "autotile": 1.0,
+                "autotile_index": 0.0,
+                "tileset": "tile_graveyard2",
+                "coord": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "352_480": {
+                "coord": [
+                    9.0,
+                    1.0
+                ],
+                "autotile_index": 1.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "864_128": {
+                "coord": [
+                    5.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "896_192": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "736_320": {
+                "coord": [
+                    7.0,
+                    4.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "160_288": {
+                "coord": [
+                    4.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "928_224": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "576_512": {
+                "coord": [
+                    13.0,
+                    2.0
+                ],
+                "autotile_index": 1.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "768_288": {
+                "coord": [
+                    8.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "320_512": {
+                "coord": [
+                    8.0,
+                    1.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "512_416": {
+                "coord": [
+                    10.0,
+                    0.0
+                ],
+                "autotile_index": 1.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "960_480": {
+                "coord": [
+                    0.0,
+                    0.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "tile_graveyard2",
+                "autotile": 0.0
+            },
+            "832_96": {
+                "coord": [
+                    4.0,
+                    3.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "608_256": {
+                "coord": [
+                    4.0,
+                    3.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "896_160": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "736_128": {
+                "coord": [
+                    7.0,
+                    4.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "288_224": {
+                "coord": [
+                    9.0,
+                    5.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "544_480": {
+                "coord": [
+                    12.0,
+                    2.0
+                ],
+                "autotile_index": 1.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "544_448": {
+                "coord": [
+                    12.0,
+                    1.0
+                ],
+                "autotile_index": 1.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "640_160": {
+                "coord": [
+                    8.0,
+                    1.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "288_512": {
+                "coord": [
+                    7.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "192_192": {
+                "coord": [
+                    8.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "896_96": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "512_448": {
+                "coord": [
+                    11.0,
+                    1.0
+                ],
+                "autotile_index": 1.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "800_512": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "928_32": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "256_96": {
+                "coord": [
+                    7.0,
+                    0.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "0_32": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "96_128": {
+                "coord": [
+                    8.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "416_448": {
+                "coord": [
+                    11.0,
+                    1.0
+                ],
+                "autotile_index": 1.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "832_192": {
+                "coord": [
+                    4.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "64_160": {
+                "coord": [
+                    7.0,
+                    4.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "672_96": {
+                "coord": [
+                    7.0,
+                    0.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "352_416": {
+                "coord": [
+                    9.0,
+                    0.0
+                ],
+                "autotile_index": 1.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "896_128": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "384_416": {
+                "coord": [
+                    10.0,
+                    0.0
+                ],
+                "autotile_index": 1.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "192_256": {
+                "coord": [
+                    8.0,
+                    1.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "224_128": {
+                "coord": [
+                    7.0,
+                    4.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "-32_0": {
+                "autotile": 1.0,
+                "autotile_index": 0.0,
+                "tileset": "tile_graveyard2",
+                "coord": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "-32_160": {
+                "autotile": 1.0,
+                "autotile_index": 0.0,
+                "tileset": "tile_graveyard2",
+                "coord": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "736_448": {
+                "coord": [
+                    6.0,
+                    1.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "192_224": {
+                "coord": [
+                    8.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "608_288": {
+                "coord": [
+                    4.0,
+                    1.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "640_128": {
+                "coord": [
+                    7.0,
+                    5.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "768_448": {
+                "coord": [
+                    6.0,
+                    1.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "32_416": {
+                "coord": [
+                    7.0,
+                    0.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "704_512": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "416_416": {
+                "coord": [
+                    10.0,
+                    0.0
+                ],
+                "autotile_index": 1.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "800_448": {
+                "coord": [
+                    6.0,
+                    1.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "928_480": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "96_480": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "672_288": {
+                "coord": [
+                    5.0,
+                    0.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "480_480": {
+                "coord": [
+                    11.0,
+                    2.0
+                ],
+                "autotile_index": 1.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "32_448": {
+                "coord": [
+                    6.0,
+                    1.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "608_448": {
+                "coord": [
+                    4.0,
+                    3.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "96_416": {
+                "coord": [
+                    6.0,
+                    0.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "448_512": {
+                "coord": [
+                    11.0,
+                    2.0
+                ],
+                "autotile_index": 1.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "224_448": {
+                "coord": [
+                    6.0,
+                    1.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "288_256": {
+                "coord": [
+                    4.0,
+                    3.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "32_32": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "320_256": {
+                "coord": [
+                    8.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "864_416": {
+                "coord": [
+                    6.0,
+                    0.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "608_160": {
+                "coord": [
+                    4.0,
+                    3.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "736_192": {
+                "coord": [
+                    6.0,
+                    0.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "800_480": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "544_416": {
+                "coord": [
+                    11.0,
+                    0.0
+                ],
+                "autotile_index": 1.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "928_64": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "288_96": {
+                "coord": [
+                    5.0,
+                    0.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "64_0": {
+                "coord": [
+                    7.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "896_32": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "608_512": {
+                "coord": [
+                    4.0,
+                    1.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "32_0": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "512_512": {
+                "coord": [
+                    11.0,
+                    2.0
+                ],
+                "autotile_index": 1.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "704_320": {
+                "coord": [
+                    6.0,
+                    4.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "864_64": {
+                "coord": [
+                    5.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "640_448": {
+                "coord": [
+                    5.0,
+                    1.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "512_480": {
+                "coord": [
+                    11.0,
+                    2.0
+                ],
+                "autotile_index": 1.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "160_256": {
+                "coord": [
+                    4.0,
+                    1.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "640_416": {
+                "coord": [
+                    5.0,
+                    0.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "960_448": {
+                "coord": [
+                    0.0,
+                    0.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "tile_graveyard2",
+                "autotile": 0.0
+            },
+            "768_192": {
+                "coord": [
+                    8.0,
+                    0.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "800_416": {
+                "coord": [
+                    5.0,
+                    0.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "224_96": {
+                "coord": [
+                    7.0,
+                    0.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "-32_32": {
+                "autotile": 1.0,
+                "autotile_index": 0.0,
+                "tileset": "tile_graveyard2",
+                "coord": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "832_480": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "160_224": {
+                "coord": [
+                    4.0,
+                    1.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "928_160": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "256_288": {
+                "coord": [
+                    7.0,
+                    0.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "288_192": {
+                "coord": [
+                    7.0,
+                    0.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "64_512": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "896_288": {
+                "coord": [
+                    5.0,
+                    4.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "320_416": {
+                "coord": [
+                    8.0,
+                    0.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "832_64": {
+                "coord": [
+                    4.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "480_512": {
+                "coord": [
+                    11.0,
+                    2.0
+                ],
+                "autotile_index": 1.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "736_96": {
+                "coord": [
+                    5.0,
+                    0.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "64_32": {
+                "coord": [
+                    7.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "672_320": {
+                "coord": [
+                    5.0,
+                    4.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "32_-64": {
+                "autotile": 1.0,
+                "autotile_index": 0.0,
+                "tileset": "tile_graveyard2",
+                "coord": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "224_288": {
+                "coord": [
+                    5.0,
+                    0.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "448_448": {
+                "coord": [
+                    11.0,
+                    1.0
+                ],
+                "autotile_index": 1.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "192_512": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "960_416": {
+                "coord": [
+                    0.0,
+                    0.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "tile_graveyard2",
+                "autotile": 0.0
+            },
+            "256_448": {
+                "coord": [
+                    6.0,
+                    1.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "224_512": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "736_480": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "672_448": {
+                "coord": [
+                    6.0,
+                    1.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "256_224": {
+                "coord": [
+                    4.0,
+                    4.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "64_416": {
+                "coord": [
+                    5.0,
+                    0.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "-32_-64": {
+                "autotile": 1.0,
+                "autotile_index": 0.0,
+                "tileset": "tile_graveyard2",
+                "coord": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "672_416": {
+                "coord": [
+                    7.0,
+                    0.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "480_448": {
+                "coord": [
+                    11.0,
+                    1.0
+                ],
+                "autotile_index": 1.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "832_256": {
+                "coord": [
+                    4.0,
+                    3.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "96_448": {
+                "coord": [
+                    6.0,
+                    1.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "-32_128": {
+                "autotile": 1.0,
+                "autotile_index": 0.0,
+                "tileset": "tile_graveyard2",
+                "coord": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "608_96": {
+                "coord": [
+                    4.0,
+                    0.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "384_512": {
+                "coord": [
+                    10.0,
+                    2.0
+                ],
+                "autotile_index": 1.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "0_448": {
+                "coord": [
+                    6.0,
+                    1.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "768_128": {
+                "coord": [
+                    8.0,
+                    4.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "640_288": {
+                "coord": [
+                    7.0,
+                    7.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "736_512": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "928_448": {
+                "coord": [
+                    6.0,
+                    1.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "192_288": {
+                "coord": [
+                    7.0,
+                    7.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "704_128": {
+                "coord": [
+                    5.0,
+                    4.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "96_64": {
+                "coord": [
+                    8.0,
+                    3.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "928_96": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "768_320": {
+                "coord": [
+                    8.0,
+                    4.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "64_-32": {
+                "autotile": 1.0,
+                "autotile_index": 0.0,
+                "tileset": "tile_graveyard2",
+                "coord": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "32_64": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "416_480": {
+                "coord": [
+                    11.0,
+                    2.0
+                ],
+                "autotile_index": 1.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "256_192": {
+                "coord": [
+                    4.0,
+                    0.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "192_96": {
+                "coord": [
+                    7.0,
+                    0.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "672_480": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "160_128": {
+                "coord": [
+                    4.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "576_544": {
+                "coord": [
+                    0.0,
+                    0.0
+                ],
+                "autotile_index": 1.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "768_96": {
+                "coord": [
+                    8.0,
+                    0.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "896_512": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "64_96": {
+                "coord": [
+                    7.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "704_288": {
+                "coord": [
+                    6.0,
+                    0.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "96_-32": {
+                "autotile": 1.0,
+                "autotile_index": 0.0,
+                "tileset": "tile_graveyard2",
+                "coord": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "960_512": {
+                "coord": [
+                    0.0,
+                    0.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "tile_graveyard2",
+                "autotile": 0.0
+            },
+            "896_480": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "320_96": {
+                "coord": [
+                    8.0,
+                    0.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "896_224": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "160_512": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "768_480": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "192_448": {
+                "coord": [
+                    6.0,
+                    1.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "832_32": {
+                "coord": [
+                    4.0,
+                    1.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "928_288": {
+                "coord": [
+                    7.0,
+                    4.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "928_256": {
+                "coord": [
+                    6.0,
+                    3.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "640_480": {
+                "coord": [
+                    5.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "320_448": {
+                "coord": [
+                    8.0,
+                    1.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "128_512": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "608_192": {
+                "coord": [
+                    4.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "96_160": {
+                "coord": [
+                    8.0,
+                    4.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "608_128": {
+                "coord": [
+                    4.0,
+                    3.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "64_-64": {
+                "autotile": 1.0,
+                "autotile_index": 0.0,
+                "tileset": "tile_graveyard2",
+                "coord": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "0_480": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "288_480": {
+                "coord": [
+                    7.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "192_416": {
+                "coord": [
+                    6.0,
+                    0.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "896_0": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "352_512": {
+                "coord": [
+                    9.0,
+                    1.0
+                ],
+                "autotile_index": 1.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "832_0": {
+                "coord": [
+                    4.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "416_512": {
+                "coord": [
+                    11.0,
+                    2.0
+                ],
+                "autotile_index": 1.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "160_320": {
+                "coord": [
+                    4.0,
+                    4.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "832_224": {
+                "coord": [
+                    4.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "896_416": {
+                "coord": [
+                    7.0,
+                    0.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "640_96": {
+                "coord": [
+                    6.0,
+                    0.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "320_224": {
+                "coord": [
+                    8.0,
+                    1.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "864_224": {
+                "coord": [
+                    5.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "320_288": {
+                "coord": [
+                    8.0,
+                    1.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "32_512": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "288_288": {
+                "coord": [
+                    9.0,
+                    7.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "288_320": {
+                "coord": [
+                    7.0,
+                    4.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "32_160": {
+                "coord": [
+                    6.0,
+                    4.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "832_128": {
+                "coord": [
+                    4.0,
+                    3.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "576_480": {
+                "coord": [
+                    13.0,
+                    2.0
+                ],
+                "autotile_index": 1.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "768_416": {
+                "coord": [
+                    6.0,
+                    0.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "384_480": {
+                "coord": [
+                    10.0,
+                    2.0
+                ],
+                "autotile_index": 1.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "736_288": {
+                "coord": [
+                    9.0,
+                    7.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "704_96": {
+                "coord": [
+                    5.0,
+                    0.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "128_480": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "0_160": {
+                "coord": [
+                    5.0,
+                    4.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "192_160": {
+                "coord": [
+                    8.0,
+                    3.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "256_416": {
+                "coord": [
+                    7.0,
+                    0.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "896_64": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "0_128": {
+                "coord": [
+                    6.0,
+                    3.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "96_512": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "832_448": {
+                "coord": [
+                    6.0,
+                    1.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "96_0": {
+                "coord": [
+                    8.0,
+                    1.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "0_64": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "864_256": {
+                "coord": [
+                    5.0,
+                    3.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "928_416": {
+                "coord": [
+                    5.0,
+                    0.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "864_96": {
+                "coord": [
+                    5.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "288_128": {
+                "coord": [
+                    7.0,
+                    4.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "320_128": {
+                "coord": [
+                    8.0,
+                    4.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "160_480": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "864_160": {
+                "coord": [
+                    5.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "608_320": {
+                "coord": [
+                    4.0,
+                    4.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "288_448": {
+                "coord": [
+                    7.0,
+                    1.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "64_480": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "864_512": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "736_256": {
+                "coord": [
+                    4.0,
+                    1.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "608_416": {
+                "coord": [
+                    4.0,
+                    0.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "544_512": {
+                "coord": [
+                    12.0,
+                    2.0
+                ],
+                "autotile_index": 1.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "832_160": {
+                "coord": [
+                    4.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "864_0": {
+                "coord": [
+                    5.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "224_480": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "32_480": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "0_0": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "640_224": {
+                "coord": [
+                    8.0,
+                    1.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "0_512": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "160_448": {
+                "coord": [
+                    6.0,
+                    1.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "608_224": {
+                "coord": [
+                    4.0,
+                    1.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "928_128": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "672_128": {
+                "coord": [
+                    6.0,
+                    4.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "736_224": {
+                "coord": [
+                    9.0,
+                    5.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "864_448": {
+                "coord": [
+                    6.0,
+                    1.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "832_416": {
+                "coord": [
+                    5.0,
+                    0.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "768_256": {
+                "coord": [
+                    8.0,
+                    3.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "352_448": {
+                "coord": [
+                    9.0,
+                    2.0
+                ],
+                "autotile_index": 1.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "64_448": {
+                "coord": [
+                    6.0,
+                    1.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "128_448": {
+                "coord": [
+                    6.0,
+                    1.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "704_448": {
+                "coord": [
+                    6.0,
+                    1.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "640_256": {
+                "coord": [
+                    8.0,
+                    1.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "928_512": {
+                "coord": [
+                    6.0,
+                    2.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "320_480": {
+                "coord": [
+                    8.0,
+                    1.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "480_416": {
+                "coord": [
+                    10.0,
+                    0.0
+                ],
+                "autotile_index": 1.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            },
+            "96_-64": {
+                "autotile": 1.0,
+                "autotile_index": 0.0,
+                "tileset": "tile_graveyard2",
+                "coord": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "192_128": {
+                "coord": [
+                    7.0,
+                    5.0
+                ],
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooblygoober",
+                "autotile": 1.0
+            }
+        },
+        "4": {
+            "416_512": {
+                "autotile": 0.0,
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooberdeco",
+                "coord": [
+                    6.0,
+                    2.0
+                ]
+            },
+            "480_512": {
+                "autotile": 0.0,
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooberdeco",
+                "coord": [
+                    8.0,
+                    2.0
+                ]
+            },
+            "896_96": {
+                "autotile": 0.0,
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooberdeco",
+                "coord": [
+                    17.0,
+                    12.0
+                ]
+            },
+            "800_512": {
+                "autotile": 0.0,
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooberdeco",
+                "coord": [
+                    17.0,
+                    12.0
+                ]
+            },
+            "928_32": {
+                "autotile": 0.0,
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooberdeco",
+                "coord": [
+                    18.0,
+                    10.0
+                ]
+            },
+            "0_32": {
+                "autotile": 0.0,
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooberdeco",
+                "coord": [
+                    15.0,
+                    10.0
+                ]
+            },
+            "832_512": {
+                "autotile": 0.0,
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooberdeco",
+                "coord": [
+                    18.0,
+                    12.0
+                ]
+            },
+            "736_384": {
+                "autotile": 0.0,
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooberdeco",
+                "coord": [
+                    12.0,
+                    1.0
+                ]
+            },
+            "896_128": {
+                "autotile": 0.0,
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooberdeco",
+                "coord": [
+                    17.0,
+                    13.0
+                ]
+            },
+            "32_96": {
+                "autotile": 0.0,
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooberdeco",
+                "coord": [
+                    16.0,
+                    12.0
+                ]
+            },
+            "896_64": {
+                "autotile": 0.0,
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooberdeco",
+                "coord": [
+                    17.0,
+                    11.0
+                ]
+            },
+            "832_448": {
+                "autotile": 0.0,
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooberdeco",
+                "coord": [
+                    18.0,
+                    10.0
+                ]
+            },
+            "800_448": {
+                "autotile": 0.0,
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooberdeco",
+                "coord": [
+                    17.0,
+                    10.0
+                ]
+            },
+            "448_480": {
+                "autotile": 0.0,
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooberdeco",
+                "coord": [
+                    7.0,
+                    1.0
+                ]
+            },
+            "0_64": {
+                "autotile": 0.0,
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooberdeco",
+                "coord": [
+                    15.0,
+                    11.0
+                ]
+            },
+            "192_384": {
+                "autotile": 0.0,
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooberdeco",
+                "coord": [
+                    11.0,
+                    0.0
+                ]
+            },
+            "192_64": {
+                "autotile": 0.0,
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooberdeco",
+                "coord": [
+                    13.0,
+                    1.0
+                ]
+            },
+            "928_96": {
+                "autotile": 0.0,
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooberdeco",
+                "coord": [
+                    18.0,
+                    12.0
+                ]
+            },
+            "0_96": {
+                "autotile": 0.0,
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooberdeco",
+                "coord": [
+                    15.0,
+                    12.0
+                ]
+            },
+            "32_64": {
+                "autotile": 0.0,
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooberdeco",
+                "coord": [
+                    16.0,
+                    11.0
+                ]
+            },
+            "416_480": {
+                "autotile": 0.0,
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooberdeco",
+                "coord": [
+                    6.0,
+                    1.0
+                ]
+            },
+            "448_512": {
+                "autotile": 0.0,
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooberdeco",
+                "coord": [
+                    7.0,
+                    2.0
+                ]
+            },
+            "32_32": {
+                "autotile": 0.0,
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooberdeco",
+                "coord": [
+                    16.0,
+                    10.0
+                ]
+            },
+            "704_64": {
+                "autotile": 0.0,
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooberdeco",
+                "coord": [
+                    11.0,
+                    0.0
+                ]
+            },
+            "0_384": {
+                "autotile": 0.0,
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooberdeco",
+                "coord": [
+                    13.0,
+                    1.0
+                ]
+            },
+            "800_480": {
+                "autotile": 0.0,
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooberdeco",
+                "coord": [
+                    17.0,
+                    11.0
+                ]
+            },
+            "928_64": {
+                "autotile": 0.0,
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooberdeco",
+                "coord": [
+                    18.0,
+                    11.0
+                ]
+            },
+            "224_64": {
+                "autotile": 0.0,
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooberdeco",
+                "coord": [
+                    14.0,
+                    1.0
+                ]
+            },
+            "896_32": {
+                "autotile": 0.0,
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooberdeco",
+                "coord": [
+                    17.0,
+                    10.0
+                ]
+            },
+            "672_384": {
+                "autotile": 0.0,
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooberdeco",
+                "coord": [
+                    10.0,
+                    1.0
+                ]
+            },
+            "704_384": {
+                "autotile": 0.0,
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooberdeco",
+                "coord": [
+                    11.0,
+                    1.0
+                ]
+            },
+            "160_384": {
+                "autotile": 0.0,
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooberdeco",
+                "coord": [
+                    10.0,
+                    0.0
+                ]
+            },
+            "512_512": {
+                "autotile": 0.0,
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooberdeco",
+                "coord": [
+                    9.0,
+                    2.0
+                ]
+            },
+            "736_64": {
+                "autotile": 0.0,
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooberdeco",
+                "coord": [
+                    12.0,
+                    0.0
+                ]
+            },
+            "928_128": {
+                "autotile": 0.0,
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooberdeco",
+                "coord": [
+                    18.0,
+                    13.0
+                ]
+            },
+            "224_384": {
+                "autotile": 0.0,
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooberdeco",
+                "coord": [
+                    12.0,
+                    0.0
+                ]
+            },
+            "256_64": {
+                "autotile": 0.0,
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooberdeco",
+                "coord": [
+                    15.0,
+                    1.0
+                ]
+            },
+            "64_384": {
+                "autotile": 0.0,
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooberdeco",
+                "coord": [
+                    15.0,
+                    1.0
+                ]
+            },
+            "32_384": {
+                "autotile": 0.0,
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooberdeco",
+                "coord": [
+                    14.0,
+                    1.0
+                ]
+            },
+            "672_64": {
+                "autotile": 0.0,
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooberdeco",
+                "coord": [
+                    10.0,
+                    0.0
+                ]
+            },
+            "832_480": {
+                "autotile": 0.0,
+                "autotile_index": 0.0,
+                "tileset": "Gunpowder Desert\/gooberdeco",
+                "coord": [
+                    18.0,
+                    11.0
+                ]
+            }
+        }
+    },
+    "backgrounds": {
+        "5": {
+            "x": 0.0,
+            "scroll_x": 0.75,
+            "tile_y": 1.0,
+            "hspeed": 0.0,
+            "scroll_y": 0.75,
+            "y": -800.0,
+            "sprite": "Gunpowder Desert\/thing2",
+            "tile_x": 1.0,
+            "panic_sprite": -1.0,
+            "vspeed": 0.0,
+            "image_speed": 0.0
+        }
+    },
+    "properties": {
+        "songTransitionTime": 100.0,
+        "roomX": 0.0,
+        "levelWidth": 960.0,
+        "roomY": 0.0,
+        "levelHeight": 540.0,
+        "song": "event-horizon"
+    }
+}
